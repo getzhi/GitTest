@@ -7,4 +7,8 @@ public class GitMerge {
         System.out.println("hello word idea");
     }
 
+    public void test01(){
+
+    }
+
 }
